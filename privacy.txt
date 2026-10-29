@@ -1,5 +1,0 @@
-Private app, used only by its owner.
-Access: the owner's own Google account, with the owner's consent.
-Use: only for the owner's own requests.
-Storage: on the owner's own devices.
-Sharing: never sold; only processed by the services needed to answer the owner's requests.
